@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_getting_started"
+  site-url: "https://jeromeku.github.io/nbdev_getting_started"
+  description: "getting started"
+  repo-branch: main
+  repo-url: "https://github.com/jeromeku/nbdev_getting_started"
